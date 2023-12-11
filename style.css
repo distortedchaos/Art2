@@ -1,0 +1,58 @@
+
+nav{
+background-color: darkslateblue;
+height: 60px;
+position: fixed;
+top: 0;
+right:0;
+left:0;
+border-style:ridge;
+margin-right: 10px;
+margin-left: 10px;
+}
+
+  
+body {
+    color: blueviolet;
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    background-color: beige;
+}
+.starry{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.block1{
+    overflow: auto;
+    margin-top: 70px;
+}
+.para1{
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(45, 84, 189);
+}
+.scream{
+float: left;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-top: 5px;
+margin-left: 10px;
+}
+.block2{
+    overflow: auto;
+}
+.para2{
+    margin-left: 5px;
+    margin-bottom: 10px;
+    background-color: orangered;
+}
